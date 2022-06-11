@@ -1,2 +1,2 @@
-# Giants Foundary
+# Giants Foundry
 Just some Java practice, but I'd also like to shut my brain off when doing this minigame.
